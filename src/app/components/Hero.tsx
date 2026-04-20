@@ -27,9 +27,9 @@ export default function Hero() {
             </div>
 
             <h1 className="text-5xl lg:text-6xl xl:text-7xl font-bold leading-tight mb-4">
-              Adetunji
+              King
               <br />
-              <span className="gradient-text">Adeniran</span>
+              <span className="gradient-text">Adetunji</span>
             </h1>
 
             <p className="text-gold-brand text-xl lg:text-2xl font-semibold mb-6 leading-snug">
@@ -93,7 +93,7 @@ export default function Hero() {
               {/* Floating badge */}
               <div className="absolute -bottom-2 -right-2 bg-[#112240] border border-teal-brand/30 rounded-2xl px-4 py-2.5 shadow-xl">
                 <p className="text-xs text-white/50">Founder</p>
-                <p className="text-teal-brand font-bold text-sm">CentWiseAI</p>
+                <p className="text-teal-brand font-bold text-sm">CentWise Technologies</p>
               </div>
               {/* Crown accent */}
               <div className="absolute -top-4 left-1/2 -translate-x-1/2 text-gold-brand text-3xl drop-shadow-lg">
