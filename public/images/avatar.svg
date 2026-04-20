@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="400" height="500">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#1a3a5c"/>
+      <stop offset="100%" stop-color="#0C1B2E"/>
+    </radialGradient>
+    <clipPath id="circle">
+      <circle cx="200" cy="250" r="200"/>
+    </clipPath>
+  </defs>
+  <!-- Background -->
+  <rect width="400" height="500" fill="url(#bg)"/>
+  <!-- Subtle grid -->
+  <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+    <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#00B5B8" stroke-width="0.2" opacity="0.3"/>
+  </pattern>
+  <rect width="400" height="500" fill="url(#grid)"/>
+  <!-- Body silhouette -->
+  <ellipse cx="200" cy="430" rx="140" ry="80" fill="#112240"/>
+  <!-- Neck -->
+  <rect x="178" y="310" width="44" height="60" rx="8" fill="#c8a882"/>
+  <!-- Head -->
+  <ellipse cx="200" cy="260" rx="75" ry="85" fill="#c8a882"/>
+  <!-- Hair -->
+  <ellipse cx="200" cy="185" rx="75" ry="35" fill="#1a0a00"/>
+  <ellipse cx="130" cy="240" rx="18" ry="45" fill="#1a0a00"/>
+  <ellipse cx="270" cy="240" rx="18" ry="45" fill="#1a0a00"/>
+  <!-- Eyes -->
+  <ellipse cx="175" cy="255" rx="10" ry="11" fill="#1a0a00"/>
+  <ellipse cx="225" cy="255" rx="10" ry="11" fill="#1a0a00"/>
+  <ellipse cx="177" cy="253" rx="3" ry="3" fill="white"/>
+  <ellipse cx="227" cy="253" rx="3" ry="3" fill="white"/>
+  <!-- Eyebrows -->
+  <path d="M162 238 Q175 232 188 238" stroke="#1a0a00" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M212 238 Q225 232 238 238" stroke="#1a0a00" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Nose -->
+  <path d="M195 265 Q200 280 205 265" stroke="#b08060" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Mouth -->
+  <path d="M185 295 Q200 308 215 295" stroke="#a06040" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <!-- Stubble -->
+  <ellipse cx="200" cy="305" rx="45" ry="15" fill="#1a0a00" opacity="0.25"/>
+  <!-- Sweater -->
+  <path d="M60 500 Q80 370 140 355 L200 370 L260 355 Q320 370 340 500 Z" fill="#1a1a2e"/>
+  <!-- Ribbed texture on sweater -->
+  <path d="M100 420 Q200 415 300 420" stroke="#2a2a4e" stroke-width="4" fill="none"/>
+  <path d="M90 440 Q200 434 310 440" stroke="#2a2a4e" stroke-width="4" fill="none"/>
+  <path d="M80 460 Q200 455 320 460" stroke="#2a2a4e" stroke-width="4" fill="none"/>
+  <path d="M70 480 Q200 474 330 480" stroke="#2a2a4e" stroke-width="4" fill="none"/>
+  <!-- Headphones around neck -->
+  <path d="M145 355 Q120 320 125 290 Q125 270 145 270" stroke="#4a7eb5" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <path d="M255 355 Q280 320 275 290 Q275 270 255 270" stroke="#4a7eb5" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <ellipse cx="140" cy="280" rx="18" ry="22" fill="#4a7eb5"/>
+  <ellipse cx="260" cy="280" rx="18" ry="22" fill="#4a7eb5"/>
+  <ellipse cx="140" cy="280" rx="10" ry="14" fill="#3a6ea5"/>
+  <ellipse cx="260" cy="280" rx="10" ry="14" fill="#3a6ea5"/>
+  <!-- Teal accent glow at bottom -->
+  <radialGradient id="glow" cx="50%" cy="100%" r="50%">
+    <stop offset="0%" stop-color="#00B5B8" stop-opacity="0.15"/>
+    <stop offset="100%" stop-color="#00B5B8" stop-opacity="0"/>
+  </radialGradient>
+  <rect width="400" height="500" fill="url(#glow)"/>
+</svg>

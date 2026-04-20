@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" width="320" height="80">
+  <!-- Crown -->
+  <g transform="translate(10, 8)">
+    <path d="M22 32 L6 14 L14 26 L22 10 L30 26 L38 14 L30 32 Z" fill="#F5A623"/>
+    <rect x="6" y="32" width="32" height="6" rx="2" fill="#F5A623"/>
+  </g>
+  <!-- kingadetunji text -->
+  <text x="58" y="54" font-family="Space Grotesk, system-ui, sans-serif" font-weight="700" font-size="30" fill="#FFFFFF" letter-spacing="-0.5">kingadetunji</text>
+  <!-- .dev text -->
+  <text x="275" y="54" font-family="Space Grotesk, system-ui, sans-serif" font-weight="700" font-size="30" fill="#00B5B8">.dev</text>
+</svg>
