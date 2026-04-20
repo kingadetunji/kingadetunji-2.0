@@ -2,7 +2,7 @@ const clients = [
   {
     icon: "🚀",
     title: "Startups Building in AI or Fintech",
-    desc: "You have an idea — or an early product — and need a technical and strategic co-pilot who's been through the build. I help you move fast without breaking the architecture.",
+    desc: "You have an idea — or an early product — and need a technical and strategic co-pilot who's been through it. I help you move fast without breaking the architecture.",
     tags: ["MVP Development", "AI Integration", "Technical Co-founder"],
   },
   {
@@ -13,7 +13,7 @@ const clients = [
   },
   {
     icon: "💼",
-    title: "Founders Who Need More Than a Coder",
+    title: "Leaders Who Need More Than a Coder",
     desc: "You need someone who thinks about the product, the user, and the business — not just the pull request. I bring strategy, execution, and accountability to every engagement.",
     tags: ["Product Strategy", "Execution", "Direct Access"],
   },

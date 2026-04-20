@@ -1,6 +1,6 @@
 const capabilities = [
   "Real-time savings insights across gas, groceries, and subscriptions",
-  "Smart, location-aware recommendations tailored to GTA living",
+  "Smart, location-aware recommendations tailored to Ontario living",
   "Subscription tracking and overspend alerts",
   "Continuous learning — the longer you use it, the smarter it gets",
 ];
@@ -26,9 +26,9 @@ export default function FlagshipProduct() {
             <div className="section-divider mb-8" />
             <p className="text-white/70 text-base lg:text-lg leading-relaxed mb-6">
               CentWiseAI is an AI-powered financial assistant built specifically for
-              residents in the{" "}
+              residents in {" "}
               <span className="text-white font-semibold">
-                Greater Toronto Area.
+                Ontario.
               </span>{" "}
               It transforms real-world spending data — gas, groceries, subscriptions —
               into actionable recommendations that save money without the manual work.
@@ -54,7 +54,7 @@ export default function FlagshipProduct() {
             {/* CTA */}
             <div className="mt-10">
               <a
-                href="https://centwiseai.ca"
+                href="https://centwiseai.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-gold-brand text-[#0C1B2E] font-bold text-sm px-7 py-3.5 rounded-full hover:bg-gold-light transition-all duration-200 hover:shadow-xl hover:shadow-gold-brand/30 hover:-translate-y-0.5"
@@ -133,10 +133,10 @@ export default function FlagshipProduct() {
         <div className="mt-12 bg-gradient-to-r from-teal-brand/10 to-gold-brand/5 border border-teal-brand/20 rounded-2xl p-6 flex gap-4 items-start">
           <span className="text-2xl flex-shrink-0">🏙️</span>
           <div>
-            <p className="text-white font-bold mb-1">Built for the GTA. Designed for everyone.</p>
+            <p className="text-white font-bold mb-1">Built for the Ontario. Designed for everyone.</p>
             <p className="text-white/60 text-sm leading-relaxed">
               CentWiseAI isn&apos;t a generic budgeting tool. It&apos;s trained on localized data —
-              GTA gas prices, local grocery chains, Canadian subscription plans — so every insight
+              Ontario gas prices, local grocery chains, Canadian subscription plans — so every insight
               is immediately relevant to your real life.
             </p>
           </div>

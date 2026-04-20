@@ -9,7 +9,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row items-center justify-between gap-6">
           {/* Logo */}
           <Image
-            src="/images/logo.svg"
+            src="/images/kingadetunji_logo.png"
             alt="kingadetunji.dev"
             width={160}
             height={42}
@@ -33,7 +33,7 @@ export default function Footer() {
           <p className="text-white/30 text-xs text-center md:text-right">
             © {year} BDA CentWise Technologies
             <br />
-            <span className="text-white/20">Office@centwiseai.ca · 647-643-2062</span>
+            <span className="text-white/20">Office@centwiseai.ca · 647-643-2061</span>
           </p>
         </div>
       </div>

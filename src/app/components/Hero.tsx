@@ -35,12 +35,12 @@ export default function Hero() {
             <p className="text-gold-brand text-xl lg:text-2xl font-semibold mb-6 leading-snug">
               Building AI systems that help people
               <br />
-              find, save, and grow money.
+              deliver measurable financial outcomes.
             </p>
 
             <p className="text-white/60 text-base lg:text-lg leading-relaxed mb-10 max-w-lg">
               I operate at the intersection of AI, finance, and product strategy.
-              Through BDA CentWise Technologies, I partner with startups and
+              Through CentWise Technologies, I partner with startups and
               community organizations in Ontario to design AI-powered systems that
               deliver measurable financial outcomes.
             </p>
@@ -65,7 +65,7 @@ export default function Hero() {
             <div className="flex flex-wrap gap-8 mt-12 pt-8 border-t border-white/10">
               {[
                 { val: "3+", label: "AI Products Shipped" },
-                { val: "GTA", label: "Market Focus" },
+                { val: "Ontario", label: "Market Focus" },
                 { val: "100%", label: "Founder-Direct" },
               ].map((stat) => (
                 <div key={stat.label}>
@@ -83,7 +83,7 @@ export default function Hero() {
               <div className="absolute inset-0 rounded-full bg-gradient-to-br from-teal-brand/30 to-gold-brand/20 blur-2xl scale-110" />
               <div className="relative w-72 h-72 lg:w-80 lg:h-80 xl:w-96 xl:h-96 rounded-full border-2 border-teal-brand/30 overflow-hidden bg-[#112240] animate-float">
                 <Image
-                  src="/images/avatar.svg"
+                  src="/images/adetunji.jpg"
                   alt="Adetunji Adeniran"
                   fill
                   className="object-cover object-top"

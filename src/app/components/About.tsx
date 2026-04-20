@@ -17,7 +17,7 @@ export default function About() {
                 <span className="text-white font-semibold">
                   Financial Intelligence Specialist and Software Engineer
                 </span>{" "}
-                who builds AI products that solve real problems — not proofs of
+                who builds AI products that solve real problems — not just proofs of
                 concept.
               </p>
               <p>
@@ -30,7 +30,7 @@ export default function About() {
                 From consumer-facing apps like CentWiseAI to strategic technology
                 advisory for organizations navigating growth, I bring a
                 product-first mindset to every engagement. I don&apos;t just write
-                code — I build systems that move the needle.
+                code - I build systems that move the needle.
               </p>
             </div>
 
@@ -50,7 +50,7 @@ export default function About() {
               {
                 icon: "🤖",
                 title: "AI Product Builder",
-                desc: "From idea to launched, production-ready AI application.",
+                desc: "From idea to production-ready AI application.",
               },
               {
                 icon: "💰",
@@ -60,12 +60,12 @@ export default function About() {
               {
                 icon: "🏗️",
                 title: "Software Engineer",
-                desc: "Full-stack builder with a bias toward shipping real products.",
+                desc: "Full-stack Engineer with a bias toward shipping real products.",
               },
               {
                 icon: "🚀",
                 title: "Founder, CentWiseAI",
-                desc: "AI-powered financial assistant for GTA residents.",
+                desc: "AI-powered financial assistant for Ontario residents.",
               },
             ].map((card) => (
               <div

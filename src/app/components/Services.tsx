@@ -16,10 +16,10 @@ const services = [
     number: "02",
     title: "Financial Intelligence Systems",
     tagline: "Raw financial data tells a story. I help you read it — and act on it.",
-    desc: "My models surface savings, flag risk, and power smarter decisions at scale.",
+    desc: "My models surface patterns, flag risks, and power smarter decisions at scale.",
     items: [
       "Spending optimization and cost-reduction models",
-      "Predictive analytics (gas price forecasting, subscription churn)",
+      "Predictive analytics (price forecasting, subscription churn)",
       "AI-driven financial dashboards and insight engines",
       "Data-driven decision frameworks for lean organizations",
     ],
@@ -44,7 +44,7 @@ const tableRows = [
   {
     service: "AI Product Dev",
     value:
-      "End-to-end product design and engineering — from idea to launched, AI-powered application.",
+      "End-to-end product design and engineering - from idea to launched, AI-powered application.",
   },
   {
     service: "Financial Intelligence",
@@ -72,9 +72,9 @@ export default function Services() {
           </h2>
           <div className="section-divider mx-auto mb-6" />
           <p className="text-white/60 text-base max-w-xl mx-auto">
-            Whether you&apos;re a founder who needs a technical partner, an organization
-            seeking digital transformation, or a startup ready to embed AI — here&apos;s
-            where we start.
+            Whether you&apos;re a leader who needs a technical partner, an organization
+            seeking digital transformation, or a startup ready to embed AI - here&apos;s
+            where we align.
           </p>
         </div>
 
@@ -134,9 +134,8 @@ export default function Services() {
           {tableRows.map((row, i) => (
             <div
               key={row.service}
-              className={`grid grid-cols-2 border-b border-white/5 last:border-0 ${
-                i % 2 === 0 ? "bg-[#112240]/40" : "bg-[#0C1B2E]/40"
-              }`}
+              className={`grid grid-cols-2 border-b border-white/5 last:border-0 ${i % 2 === 0 ? "bg-[#112240]/40" : "bg-[#0C1B2E]/40"
+                }`}
             >
               <div className="px-6 py-4">
                 <span className="text-white font-semibold text-sm">{row.service}</span>

@@ -1,7 +1,7 @@
 const differentiators = [
   {
     icon: "🎯",
-    title: "Product-first mindset",
+    title: "User-first mindset",
     desc: "I think about users and business impact before I touch a keyboard.",
   },
   {
@@ -12,7 +12,7 @@ const differentiators = [
   {
     icon: "✅",
     title: "Proven track record",
-    desc: "Live products, real users, measurable savings — not just demos.",
+    desc: "Live products, real users, measurable impacts - not just demos.",
   },
   {
     icon: "📍",
@@ -52,7 +52,7 @@ export default function WhyMe() {
               </p>
               <p className="text-white text-lg font-semibold leading-relaxed">
                 &ldquo;Every engagement I take is a partnership. I don&apos;t disappear after
-                launch — I measure, iterate, and make sure the system actually
+                launch - I measure, iterate, and make sure the system actually
                 delivers.&rdquo;
               </p>
               <p className="text-teal-brand text-sm font-bold mt-4">

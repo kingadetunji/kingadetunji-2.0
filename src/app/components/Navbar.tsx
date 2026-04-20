@@ -39,7 +39,7 @@ export default function Navbar() {
         {/* Logo */}
         <button onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}>
           <Image
-            src="/images/logo.svg"
+            src="/images/kingadetunji_logo.png"
             alt="kingadetunji.dev"
             width={180}
             height={48}
