@@ -27,11 +27,8 @@ export default function Hero() {
             </div>
 
             <h1 className="text-5xl lg:text-6xl xl:text-7xl font-bold leading-tight mb-4">
-              King
-              <br />
-              <span className="gradient-text">Adetunji</span>
+              King <span className="gradient-text">Adetunji</span>
             </h1>
-
             <p className="text-gold-brand text-xl lg:text-2xl font-semibold mb-6 leading-snug">
               Building AI systems that help people
               <br />
