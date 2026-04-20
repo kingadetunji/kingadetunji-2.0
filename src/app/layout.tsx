@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   creator: "Adetunji Adeniran",
   openGraph: {
     type: "website",
-    title: "Adetunji Adeniran · Building AI That Saves Money",
+    title: "Adetunji Adeniran · Building AI systems that deliver measurable financial outcomes",
     description:
       "Founder of CentWiseAI. I build AI products and financial intelligence systems for startups and community organizations in Ontario. Let's build something impactful.",
     siteName: "kingadetunji.dev",
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Adetunji Adeniran · Building AI That Saves Money",
+    title: "Adetunji Adeniran · Building AI systems that deliver measurable financial outcomes",
     description:
       "Founder of CentWiseAI. AI Product Builder & Financial Intelligence Specialist in Ontario, Canada.",
   },
