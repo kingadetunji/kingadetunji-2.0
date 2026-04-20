@@ -8,13 +8,15 @@ export default function Footer() {
       <div className="max-w-6xl mx-auto px-6 py-10">
         <div className="flex flex-col md:flex-row items-center justify-between gap-6">
           {/* Logo */}
-          <Image
-            src="/images/kingadetunji_logo.png"
-            alt="kingadetunji.dev"
-            width={160}
-            height={42}
-            className="h-9 w-auto"
-          />
+          <a href="https://kingadetunji.dev">
+            <Image
+              src="/images/kingadetunji_logo.png"
+              alt="kingadetunji.dev"
+              width={160}
+              height={42}
+              className="h-9 w-auto"
+            />
+          </a>
 
           {/* Nav links */}
           <nav className="flex flex-wrap justify-center gap-6 text-white/40 text-sm">

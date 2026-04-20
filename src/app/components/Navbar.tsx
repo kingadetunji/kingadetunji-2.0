@@ -37,7 +37,7 @@ export default function Navbar() {
     >
       <div className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
         {/* Logo */}
-        <button onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}>
+        <a href="https://kingadetunji.dev">
           <Image
             src="/images/kingadetunji_logo.png"
             alt="kingadetunji.dev"
@@ -46,7 +46,7 @@ export default function Navbar() {
             className="h-10 w-auto"
             priority
           />
-        </button>
+        </a>
 
         {/* Desktop Nav */}
         <ul className="hidden md:flex items-center gap-8">
