@@ -6,7 +6,7 @@ export default function About() {
           {/* Left — content */}
           <div>
             <p className="text-teal-brand text-sm font-semibold tracking-widest uppercase mb-3">
-              02 · About
+              About
             </p>
             <h2 className="text-4xl lg:text-5xl font-bold mb-4">Who I Am</h2>
             <div className="section-divider mb-8" />

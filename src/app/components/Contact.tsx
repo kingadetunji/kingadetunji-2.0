@@ -26,7 +26,7 @@ export default function Contact() {
           {/* Left — info */}
           <div>
             <p className="text-teal-brand text-sm font-semibold tracking-widest uppercase mb-3">
-              07 · Contact
+              Contact
             </p>
             <h2 className="text-4xl lg:text-5xl font-bold mb-4">
               Let&apos;s Build Something Impactful

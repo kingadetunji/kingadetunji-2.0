@@ -26,7 +26,7 @@ export default function IdealClients() {
         {/* Header */}
         <div className="text-center mb-14">
           <p className="text-teal-brand text-sm font-semibold tracking-widest uppercase mb-3">
-            05 · Ideal Clients
+            Ideal Clients
           </p>
           <h2 className="text-4xl lg:text-5xl font-bold mb-4">Who I Work With</h2>
           <div className="section-divider mx-auto" />

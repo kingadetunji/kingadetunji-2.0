@@ -12,7 +12,7 @@ export default function FlagshipProduct() {
         {/* Header */}
         <div className="text-center mb-14">
           <p className="text-teal-brand text-sm font-semibold tracking-widest uppercase mb-3">
-            04 · Flagship Product
+            Flagship Product
           </p>
           <h2 className="text-4xl lg:text-5xl font-bold mb-2">CentWiseAI</h2>
           <p className="text-gold-brand text-xl font-semibold">

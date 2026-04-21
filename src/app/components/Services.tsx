@@ -65,7 +65,7 @@ export default function Services() {
         {/* Header */}
         <div className="text-center mb-16">
           <p className="text-teal-brand text-sm font-semibold tracking-widest uppercase mb-3">
-            03 · Services
+            Services
           </p>
           <h2 className="text-4xl lg:text-5xl font-bold mb-4">
             How I Can Help You

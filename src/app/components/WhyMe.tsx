@@ -34,7 +34,7 @@ export default function WhyMe() {
         <div className="grid lg:grid-cols-2 gap-12 items-start mb-14">
           <div>
             <p className="text-teal-brand text-sm font-semibold tracking-widest uppercase mb-3">
-              06 · Why Work With Me
+              Why Work With Me
             </p>
             <h2 className="text-4xl lg:text-5xl font-bold mb-4">The Difference</h2>
             <div className="section-divider mb-6" />
