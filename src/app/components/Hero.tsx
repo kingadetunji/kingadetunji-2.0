@@ -22,7 +22,7 @@ export default function Hero() {
             <div className="inline-flex items-center gap-2 bg-teal-brand/10 border border-teal-brand/30 rounded-full px-4 py-1.5 mb-6">
               <span className="w-2 h-2 bg-teal-brand rounded-full animate-pulse" />
               <span className="text-teal-brand text-sm font-medium tracking-wide">
-                AI Product Builder · Financial Intelligence Specialist
+                AI Engineer · Retail & Financial Intelligence Consultant
               </span>
             </div>
 
@@ -36,9 +36,9 @@ export default function Hero() {
             </p>
 
             <p className="text-white/60 text-base lg:text-lg leading-relaxed mb-10 max-w-lg">
-              I operate at the intersection of AI, finance, and product strategy.
+              I operate at the intersection of AI, finance, and retail strategy.
               Through CentWise Technologies, I partner with startups and
-              community organizations in Ontario to design AI-powered systems that
+              community organizations in Ontario to design an deploy AI-powered systems that
               deliver measurable financial outcomes.
             </p>
 
@@ -89,7 +89,7 @@ export default function Hero() {
               </div>
               {/* Floating badge */}
               <div className="absolute -bottom-2 -right-2 bg-[#112240] border border-teal-brand/30 rounded-2xl px-4 py-2.5 shadow-xl">
-                <p className="text-xs text-white/50">Founder</p>
+                <p className="text-xs text-white/50">DBA</p>
                 <p className="text-teal-brand font-bold text-sm">CentWise Technologies</p>
               </div>
               {/* Crown accent */}

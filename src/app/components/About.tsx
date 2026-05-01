@@ -15,7 +15,7 @@ export default function About() {
               <p>
                 I&apos;m a{" "}
                 <span className="text-white font-semibold">
-                  Financial Intelligence Specialist and Software Engineer
+                  Retail Strategist,Financial Intelligence Consultant and Software Engineer
                 </span>{" "}
                 who builds AI products that solve real problems — not just proofs of
                 concept.
@@ -27,9 +27,9 @@ export default function About() {
                 </span>
               </p>
               <p>
-                From consumer-facing apps like CentWiseAI to strategic technology
+                From consumer-facing apps to strategic technology
                 advisory for organizations navigating growth, I bring a
-                product-first mindset to every engagement. I don&apos;t just write
+                execution-first mindset to every engagement. I don&apos;t just write
                 code - I build systems that move the needle.
               </p>
             </div>
@@ -37,7 +37,7 @@ export default function About() {
             {/* Pull quote */}
             <blockquote className="mt-10 pl-5 border-l-2 border-gold-brand">
               <p className="text-white/80 text-base italic leading-relaxed">
-                &ldquo;I operate at the intersection of AI, finance, and product
+                &ldquo;I operate at the intersection of AI, finance, and retail
                 strategy — where complexity meets clarity, and data meets
                 decisions.&rdquo;
               </p>
@@ -64,8 +64,8 @@ export default function About() {
               },
               {
                 icon: "🚀",
-                title: "Founder, CentWiseAI",
-                desc: "AI-powered financial assistant for Ontario residents.",
+                title: "Retail Strategist",
+                desc: "AI-powered data analysis to optimize business performance.",
               },
             ].map((card) => (
               <div

@@ -35,7 +35,7 @@ export default function Contact() {
 
             <p className="text-white/65 text-base lg:text-lg leading-relaxed mb-10">
               If you&apos;re working on a problem at the intersection of AI, finance, and
-              real-world impact - I&apos;d love to hear about it. Whether it&apos;s a discovery
+              retail - I&apos;d love to hear about it. Whether it&apos;s a discovery
               call, a project brief, or just an idea you want to stress-test, reach
               out.
             </p>
