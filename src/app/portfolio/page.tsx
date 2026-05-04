@@ -15,7 +15,7 @@ const startups = [
     description:
       "Helping Canadian landlords simplify and automate their rentals — from tenant onboarding and lease management to payment tracking and maintenance requests.",
     logo: "/images/RentSDK_logo.jpeg",
-    href: "#",
+    href: "https://rentsdk.ca",
     tag: "PropTech · Canada",
     accentColor: "#4F8EF7",
     bg: "from-blue-900/20 to-blue-800/10",
@@ -28,7 +28,7 @@ const startups = [
     description:
       "Helping GTA residents find and save money on gas, groceries, and subscriptions through AI-powered, location-aware financial insights built for Ontario living.",
     logo: "/images/centwiseai_logo.png",
-    href: "https://centwiseai.com",
+    href: "https://centwiseai.ca",
     tag: "FinTech · Ontario",
     accentColor: "#00B5B8",
     bg: "from-teal-900/20 to-teal-800/10",
@@ -41,7 +41,7 @@ const startups = [
     description:
       "A full-stack AI-powered Structural Engineering platform simplifying workflows for engineers, architects, and developers globally — from design to documentation.",
     logo: "/images/structstackai_logo.jpeg",
-    href: "#",
+    href: "https://structstack.ai/",
     tag: "AEC Tech · Global",
     accentColor: "#A78BFA",
     bg: "from-purple-900/20 to-purple-800/10",
@@ -54,7 +54,7 @@ const startups = [
     description:
       "A Nigeria-based Software Engineering startup helping private and public schools simplify and automate academic workflows — from admissions to results management.",
     logo: "/images/Darta_logo.jpeg",
-    href: "#",
+    href: "https://www.dartatech.com/",
     tag: "EdTech · Nigeria",
     accentColor: "#F97316",
     bg: "from-orange-900/20 to-orange-800/10",
