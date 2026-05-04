@@ -46,7 +46,7 @@ export default function Hero() {
             <div className="flex flex-wrap gap-8 mt-12 pt-8 border-t border-white/10">
               {[
                 { val: "3+", label: "AI Products Shipped" },
-                { val: "Ontario", label: "Market Focus" },
+                { val: "North America and Africa", label: "Market" },
                 { val: "100%", label: "Founder-Direct" },
               ].map((stat) => (
                 <div key={stat.label}>
