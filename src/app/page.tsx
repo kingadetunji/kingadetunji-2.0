@@ -2,7 +2,6 @@ import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import About from "./components/About";
 import Services from "./components/Services";
-import FlagshipProduct from "./components/FlagshipProduct";
 import IdealClients from "./components/IdealClients";
 import WhyMe from "./components/WhyMe";
 import Contact from "./components/Contact";
@@ -15,7 +14,6 @@ export default function Home() {
       <Hero />
       <About />
       <Services />
-      <FlagshipProduct />
       <IdealClients />
       <WhyMe />
       <Contact />
