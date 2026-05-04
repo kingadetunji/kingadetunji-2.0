@@ -42,22 +42,6 @@ export default function Hero() {
               deliver measurable financial outcomes.
             </p>
 
-            {/* CTAs */}
-            <div className="flex flex-wrap gap-4">
-              <button
-                onClick={() => scrollTo("#services")}
-                className="bg-teal-brand text-[#0C1B2E] font-bold text-base px-8 py-3.5 rounded-full hover:bg-teal-light transition-all duration-200 hover:shadow-xl hover:shadow-teal-brand/30 hover:-translate-y-0.5"
-              >
-                See My Work →
-              </button>
-              <button
-                onClick={() => scrollTo("#centwiseai")}
-                className="border border-teal-brand/50 text-teal-brand font-semibold text-base px-8 py-3.5 rounded-full hover:bg-teal-brand/10 transition-all duration-200 hover:-translate-y-0.5"
-              >
-                Meet CentWiseAI →
-              </button>
-            </div>
-
             {/* Stats row */}
             <div className="flex flex-wrap gap-8 mt-12 pt-8 border-t border-white/10">
               {[
@@ -88,10 +72,6 @@ export default function Hero() {
                 />
               </div>
               {/* Floating badge */}
-              <div className="absolute -bottom-2 -right-2 bg-[#112240] border border-teal-brand/30 rounded-2xl px-4 py-2.5 shadow-xl">
-                <p className="text-xs text-white/50">DBA</p>
-                <p className="text-teal-brand font-bold text-sm">CentWise Technologies</p>
-              </div>
               {/* Crown accent */}
               <div className="absolute -top-4 left-1/2 -translate-x-1/2 text-gold-brand text-3xl drop-shadow-lg">
                 👑

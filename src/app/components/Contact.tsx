@@ -50,12 +50,6 @@ export default function Contact() {
                   href: "mailto:Office@centwiseai.ca",
                 },
                 {
-                  icon: "📞",
-                  label: "Phone",
-                  value: "647-643-2061",
-                  href: "tel:+16476432061",
-                },
-                {
                   icon: "🌐",
                   label: "Website",
                   value: "kingadetunji.dev",
@@ -87,14 +81,6 @@ export default function Contact() {
                 className="bg-teal-brand text-[#0C1B2E] font-bold text-sm px-7 py-3.5 rounded-full hover:bg-teal-light transition-all hover:shadow-xl hover:shadow-teal-brand/30 hover:-translate-y-0.5"
               >
                 Book a Discovery Call →
-              </a>
-              <a
-                href="https://centwiseai.ca"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="border border-gold-brand/50 text-gold-brand font-semibold text-sm px-7 py-3.5 rounded-full hover:bg-gold-brand/10 transition-all hover:-translate-y-0.5"
-              >
-                Try CentWiseAI →
               </a>
             </div>
           </div>

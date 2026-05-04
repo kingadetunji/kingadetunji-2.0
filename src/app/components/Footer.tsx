@@ -39,7 +39,7 @@ export default function Footer() {
 
           {/* Copyright */}
           <p className="text-white/30 text-xs text-center md:text-right">
-            © {year} BDA CentWise Technologies
+            © {year} Adetunji Adeniran
             <br />
             <span className="text-white/20">Office@centwiseai.ca · 647-643-2061</span>
           </p>
