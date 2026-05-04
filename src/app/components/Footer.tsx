@@ -20,13 +20,19 @@ export default function Footer() {
 
           {/* Nav links */}
           <nav className="flex flex-wrap justify-center gap-6 text-white/40 text-sm">
-            {["About", "Services", "CentWiseAI", "Why Me", "Contact"].map((item) => (
+            {[
+              { label: "About", href: "#about" },
+              { label: "Services", href: "#services" },
+              { label: "My Portfolio", href: "/portfolio" },
+              { label: "Why Me", href: "#why-me" },
+              { label: "Contact", href: "#contact" },
+            ].map((item) => (
               <a
-                key={item}
-                href={`#${item.toLowerCase().replace(" ", "-")}`}
+                key={item.label}
+                href={item.href}
                 className="hover:text-teal-brand transition-colors"
               >
-                {item}
+                {item.label}
               </a>
             ))}
           </nav>

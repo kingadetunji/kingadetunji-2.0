@@ -2,11 +2,12 @@
 
 import { useState, useEffect } from "react";
 import Image from "next/image";
+import { useRouter } from "next/navigation";
 
 const navLinks = [
   { label: "About", href: "#about" },
   { label: "Services", href: "#services" },
-  { label: "CentWiseAI", href: "#centwiseai" },
+  { label: "My Portfolio", href: "/portfolio" },
   { label: "Why Me", href: "#why-me" },
   { label: "Contact", href: "#contact" },
 ];
@@ -14,6 +15,7 @@ const navLinks = [
 export default function Navbar() {
   const [scrolled, setScrolled] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
+  const router = useRouter();
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 40);
@@ -23,6 +25,10 @@ export default function Navbar() {
 
   const handleClick = (href: string) => {
     setMenuOpen(false);
+    if (href.startsWith("/")) {
+      router.push(href);
+      return;
+    }
     const el = document.querySelector(href);
     if (el) el.scrollIntoView({ behavior: "smooth" });
   };
