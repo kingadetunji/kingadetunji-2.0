@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96">
+  <rect width="96" height="96" rx="18" fill="#2563EB"/>
+  <!-- School building icon centered in the square -->
+  <g transform="translate(16, 14)" fill="white">
+    <!-- Roof triangle -->
+    <polygon points="32,4 4,20 60,20" opacity="0.9"/>
+    <!-- Flag pole -->
+    <rect x="30" y="0" width="3" height="10" rx="1"/>
+    <!-- Building body -->
+    <rect x="8" y="20" width="48" height="36" rx="2"/>
+    <!-- Door -->
+    <rect x="26" y="38" width="12" height="18" rx="2" fill="#2563EB"/>
+    <!-- Windows -->
+    <rect x="12" y="26" width="10" height="8" rx="1" fill="#2563EB"/>
+    <rect x="42" y="26" width="10" height="8" rx="1" fill="#2563EB"/>
+    <!-- Chimney / top accent -->
+    <rect x="22" y="26" width="10" height="8" rx="1" fill="#2563EB"/>
+  </g>
+</svg>

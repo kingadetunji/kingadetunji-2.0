@@ -61,6 +61,19 @@ const startups = [
     border: "border-orange-500/20",
     tagBg: "bg-orange-500/10 text-orange-300",
   },
+  {
+    name: "SimpleSchools",
+    tagline: "Everything you need to run your school.",
+    description:
+      "Simple software for managing students, fees, attendance, results, and parent communication — all from one dashboard.",
+    logo: "/images/simpleschools_logo.svg",
+    href: "https://simpleschools.xyz/",
+    tag: "EdTech · Global",
+    accentColor: "#22C55E",
+    bg: "from-green-900/20 to-green-800/10",
+    border: "border-green-500/20",
+    tagBg: "bg-green-500/10 text-green-300",
+  },
 ];
 
 export default function PortfolioPage() {
