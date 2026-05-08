@@ -66,7 +66,7 @@ const startups = [
     tagline: "Everything you need to run your school.",
     description:
       "Simple software for managing students, fees, attendance, results, and parent communication — all from one dashboard.",
-    logo: "/images/simpleschools_logo.svg",
+    logo: "/images/simpleschools_logo.jpeg",
     href: "https://simpleschools.xyz/",
     tag: "EdTech · Global",
     accentColor: "#22C55E",
