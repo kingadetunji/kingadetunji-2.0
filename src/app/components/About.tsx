@@ -37,7 +37,7 @@ export default function About() {
             {/* Pull quote */}
             <blockquote className="mt-10 pl-5 border-l-2 border-gold-brand">
               <p className="text-white/80 text-base italic leading-relaxed">
-                &ldquo;I operate at the intersection of AI, finance, and retail
+                &ldquo;I operate at the intersection of AI, finance, and intelligence
                 strategy — where complexity meets clarity, and data meets
                 decisions.&rdquo;
               </p>

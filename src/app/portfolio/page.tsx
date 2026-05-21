@@ -13,7 +13,7 @@ const startups = [
     name: "RentSDK Canada",
     tagline: "Rental Management, Simplified.",
     description:
-      "Helping Canadian landlords simplify and automate their rentals — from tenant onboarding and lease management to payment tracking and maintenance requests.",
+      "Helping independent landlords simplify and automate their rentals — from tenant onboarding and lease management to payment tracking and maintenance requests.",
     logo: "/images/RentSDK_logo.jpeg",
     href: "https://rentsdk.ca",
     tag: "PropTech · Canada",
@@ -26,7 +26,7 @@ const startups = [
     name: "CentWiseAI",
     tagline: "Find and save money. Every day.",
     description:
-      "Helping GTA residents find and save money on gas, groceries, and subscriptions through AI-powered, location-aware financial insights built for Ontario living.",
+      "Helping every day shoppers find and save money on gas, groceries, and subscriptions through AI-powered, location-aware financial insights built for Ontario living.",
     logo: "/images/centwiseai_logo.png",
     href: "https://centwiseai.ca",
     tag: "FinTech · Ontario",

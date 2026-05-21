@@ -22,7 +22,7 @@ export default function Hero() {
             <div className="inline-flex items-center gap-2 bg-teal-brand/10 border border-teal-brand/30 rounded-full px-4 py-1.5 mb-6">
               <span className="w-2 h-2 bg-teal-brand rounded-full animate-pulse" />
               <span className="text-teal-brand text-sm font-medium tracking-wide">
-                AI Engineer · Retail & Financial Intelligence Consultant
+                AI Engineer · Financial Intelligence Consultant
               </span>
             </div>
 
@@ -38,7 +38,7 @@ export default function Hero() {
             <p className="text-white/60 text-base lg:text-lg leading-relaxed mb-10 max-w-lg">
               I operate at the intersection of AI, finance, and retail strategy.
               Through CentWise Technologies, I partner with startups and
-              community organizations in Ontario to design an deploy AI-powered systems that
+              community organizations to design an deploy AI-powered systems that
               deliver measurable financial outcomes.
             </p>
 
