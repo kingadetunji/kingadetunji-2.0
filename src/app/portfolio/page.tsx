@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "My Portfolio — Adetunji Adeniran | Products & Startups",
   description:
-    "A showcase of startups and products built by Adetunji Adeniran — from AI-powered financial tools to structural engineering platforms and rental management software.",
+    "A showcase of startups and projects designed by Adetunji Adeniran — from AI-powered fintech to structural engineering platforms and rental management software.",
 };
 
 const startups = [
