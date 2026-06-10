@@ -36,9 +36,9 @@ export default function Hero() {
             </p>
 
             <p className="text-white/60 text-base lg:text-lg leading-relaxed mb-10 max-w-lg">
-              I operate at the intersection of AI, finance, and retail strategy.
+              I operate at the intersection of AI, finance, and intelligence.
               Through CentWise Technologies, I partner with startups and
-              community organizations to design and deploy AI-powered systems that
+              business leaders to design and deploy AI-powered systems that
               deliver measurable financial outcomes.
             </p>
 
