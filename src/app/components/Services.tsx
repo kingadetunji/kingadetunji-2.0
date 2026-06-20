@@ -72,8 +72,8 @@ export default function Services() {
           </h2>
           <div className="section-divider mx-auto mb-6" />
           <p className="text-white/60 text-base max-w-xl mx-auto">
-            Whether you&apos;re a leader who needs a technical partner, an organization
-            seeking digital transformation, or a startup ready to embed AI - here&apos;s
+            Whether you are a leader who needs a technology partner, an organization
+            seeking digital transformation, or a startup ready to embed AI - here is
             where we align.
           </p>
         </div>
