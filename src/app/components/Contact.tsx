@@ -34,8 +34,7 @@ export default function Contact() {
             <div className="section-divider mb-8" />
 
             <p className="text-white/65 text-base lg:text-lg leading-relaxed mb-10">
-              If you&apos;re working on a problem at the intersection of AI, finance, and
-              retail - I&apos;d love to hear about it. Whether it&apos;s a discovery
+              If you are working on something interesting and need technology support, I would love to hear about it. Whether it is a discovery
               call, a project brief, or just an idea you want to stress-test, reach
               out.
             </p>
