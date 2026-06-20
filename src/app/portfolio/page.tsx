@@ -111,7 +111,7 @@ export default function PortfolioPage() {
           My Portfolio
         </h1>
         <p className="text-white/60 text-lg lg:text-xl max-w-2xl mx-auto leading-relaxed">
-          A collection of products and companies I&apos;ve founded and built — solving real
+          A collection of products and companies that I have served — solving real
           problems across industries and borders through technology.
         </p>
         <div className="mt-8 w-16 h-1 bg-teal-brand mx-auto rounded-full" />
