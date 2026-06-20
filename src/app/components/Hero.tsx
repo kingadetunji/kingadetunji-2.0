@@ -32,7 +32,7 @@ export default function Hero() {
             <p className="text-gold-brand text-xl lg:text-2xl font-semibold mb-6 leading-snug">
               Building AI systems that help people
               <br />
-              deliver measurable financial outcomes.
+              deliver measurable business outcomes.
             </p>
 
             <p className="text-white/60 text-base lg:text-lg leading-relaxed mb-10 max-w-lg">
