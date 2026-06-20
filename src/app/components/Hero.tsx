@@ -45,9 +45,9 @@ export default function Hero() {
             {/* Stats row */}
             <div className="flex flex-wrap gap-8 mt-12 pt-8 border-t border-white/10">
               {[
-                { val: "3+", label: "AI Products Shipped" },
-                { val: "North America and Africa", label: "Market" },
-                { val: "100%", label: "Founder-Direct" },
+                { val: "10+", label: "AI systems built" },
+                { val: "Global", label: "Market" },
+                { val: "100%", label: "Client-centric" },
               ].map((stat) => (
                 <div key={stat.label}>
                   <p className="text-2xl font-bold text-teal-brand">{stat.val}</p>
