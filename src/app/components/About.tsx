@@ -13,17 +13,17 @@ export default function About() {
 
             <div className="space-y-5 text-white/70 text-base lg:text-lg leading-relaxed">
               <p>
-                I&apos;m a{" "}
+                I&apos;m an{" "}
                 <span className="text-white font-semibold">
-                  Retail Strategist,Financial Intelligence Consultant and Software Engineer
+                 AI Engineer, Fintech Consultant, and Financial Intelligence Specialist 
                 </span>{" "}
-                who builds AI products that solve real problems — not just proofs of
+                who builds AI-powered systems that solve real problems — not just proofs of
                 concept.
               </p>
               <p>
                 My work is grounded in one belief:{" "}
                 <span className="text-teal-brand font-medium">
-                  data is only valuable when it leads to better decisions.
+                  AI is only valuable when it leads to better business outcomes.
                 </span>
               </p>
               <p>
@@ -33,15 +33,6 @@ export default function About() {
                 code - I build systems that move the needle.
               </p>
             </div>
-
-            {/* Pull quote */}
-            <blockquote className="mt-10 pl-5 border-l-2 border-gold-brand">
-              <p className="text-white/80 text-base italic leading-relaxed">
-                &ldquo;I operate at the intersection of AI, finance, and intelligence
-                strategy — where complexity meets clarity, and data meets
-                decisions.&rdquo;
-              </p>
-            </blockquote>
           </div>
 
           {/* Right — identity cards */}
@@ -49,23 +40,23 @@ export default function About() {
             {[
               {
                 icon: "🤖",
-                title: "AI Product Builder",
-                desc: "From idea to production-ready AI application.",
+                title: "AI Systems Builder",
+                desc: "From idea to production-ready AI applications.",
               },
               {
                 icon: "💰",
                 title: "Financial Intelligence",
-                desc: "Turning raw data into cost savings, risk signals, and growth.",
+                desc: "Turning raw data into risk signals and growth for financial institutions.",
               },
               {
                 icon: "🏗️",
-                title: "Software Engineer",
-                desc: "Full-stack Engineer with a bias toward shipping real products.",
+                title: "AI Software Engineer",
+                desc: "Full-stack Engineer with a bias toward shipping real products, fast.",
               },
               {
                 icon: "🚀",
-                title: "Retail Strategist",
-                desc: "AI-powered data analysis to optimize business performance.",
+                title: "Technology Consultant",
+                desc: "AI-powered productivity systems for organizations.",
               },
             ].map((card) => (
               <div

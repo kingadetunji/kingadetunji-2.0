@@ -32,22 +32,22 @@ export default function Hero() {
             <p className="text-gold-brand text-xl lg:text-2xl font-semibold mb-6 leading-snug">
               Building AI systems that help people
               <br />
-              deliver measurable financial outcomes.
+              deliver measurable business outcomes.
             </p>
 
             <p className="text-white/60 text-base lg:text-lg leading-relaxed mb-10 max-w-lg">
-              I operate at the intersection of AI, finance, and intelligence.
-              Through CentWise Technologies, I partner with startups and
+              I operate at the intersection of AI, finance, and technology.
+              Through CentWise Technologies, I partner with startups founders and
               business leaders to design and deploy AI-powered systems that
-              deliver measurable financial outcomes.
+              deliver measurable financial and business outcomes.
             </p>
 
             {/* Stats row */}
             <div className="flex flex-wrap gap-8 mt-12 pt-8 border-t border-white/10">
               {[
-                { val: "3+", label: "AI Products Shipped" },
-                { val: "North America and Africa", label: "Market" },
-                { val: "100%", label: "Founder-Direct" },
+                { val: "10+", label: "AI systems built" },
+                { val: "Global", label: "Market" },
+                { val: "100%", label: "Client-centric" },
               ].map((stat) => (
                 <div key={stat.label}>
                   <p className="text-2xl font-bold text-teal-brand">{stat.val}</p>
