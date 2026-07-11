@@ -15,9 +15,9 @@ export default function About() {
               <p>
                 I&apos;m an{" "}
                 <span className="text-white font-semibold">
-                 AI Engineer, Fintech Consultant, and Financial Intelligence Specialist 
+                 AI Engineer and Consultant
                 </span>{" "}
-                who builds AI-powered systems that solve real problems — not just proofs of
+                who builds AI-powered systems that solve real problems - not just proofs of
                 concept.
               </p>
               <p>
