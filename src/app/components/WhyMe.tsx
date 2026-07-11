@@ -1,26 +1,21 @@
 const differentiators = [
   {
-    icon: "🎯",
     title: "User-first mindset",
     desc: "I think about users and business impact before I touch a keyboard.",
   },
   {
-    icon: "🧠",
     title: "Finance + technology fluency",
     desc: "A rare combination, powerful in practice. I speak both languages.",
   },
   {
-    icon: "✅",
     title: "Proven track record",
     desc: "Live products, real users, measurable impacts - not just demos.",
   },
   {
-    icon: "📍",
     title: "Ontario-based, community-focused",
     desc: "I understand the market I build for. Local insight drives better outcomes.",
   },
   {
-    icon: "🤝",
     title: "Transparent, founder-friendly",
     desc: "No agency overhead, no middlemen. Direct access to me.",
   },
@@ -51,7 +46,7 @@ export default function WhyMe() {
                 My commitment
               </p>
               <p className="text-white text-lg font-semibold leading-relaxed">
-                &ldquo;Every engagement I take is a partnership. I don&apos;t disappear after
+                &ldquo; Every engagement I take is a partnership. I don't disappear after
                 launch - I measure, iterate, and make sure the system actually
                 delivers.&rdquo;
               </p>
