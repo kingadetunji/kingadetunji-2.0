@@ -22,7 +22,7 @@ export default function Hero() {
             <div className="inline-flex items-center gap-2 bg-teal-brand/10 border border-teal-brand/30 rounded-full px-4 py-1.5 mb-6">
               <span className="w-2 h-2 bg-teal-brand rounded-full animate-pulse" />
               <span className="text-teal-brand text-sm font-medium tracking-wide">
-                AI Engineer · Financial Intelligence Consultant
+                AI Engineer & Consultant
               </span>
             </div>
 
@@ -30,14 +30,14 @@ export default function Hero() {
               Adetunji <span className="gradient-text"> Adeniran </span>
             </h1>
             <p className="text-gold-brand text-xl lg:text-2xl font-semibold mb-6 leading-snug">
-              Building AI systems that help people
+              Building AI systems that help professionals
               <br />
               deliver measurable business outcomes.
             </p>
 
             <p className="text-white/60 text-base lg:text-lg leading-relaxed mb-10 max-w-lg">
               I operate at the intersection of AI, finance, and technology.
-              Through CentWise Technologies, I partner with startups founders and
+              Through CentWise Technologies, I partner with professionals, founders and
               business leaders to design and deploy AI-powered systems that
               deliver measurable financial and business outcomes.
             </p>
